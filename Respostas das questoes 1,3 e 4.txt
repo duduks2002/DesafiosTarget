@@ -1,0 +1,29 @@
+1 - saida: Soma = 91
+
+2- 
+
+3-	1)9
+	2)128
+	3)2401
+	4)100
+	5)13
+	6)20(?)
+
+4- Primeiro achamos o ponto medio de Ribeirao PReto e Franca ,que sera de 50 km
+ Agora o calculo da distancia percorrida de cada veiculo ate o ponto medio :
+
+*obs : 1 hr = 1*
+	carro :
+		t = 50km / 110km/h 
+		t= 0,45h
+		distancia = 0,45 * 110 = 49,5km 
+
+	caminhao:
+		transformar os 10 minutos por hora : 10 /60 = 0,1666..(areendondar para 0,17)	
+		t = (50km / 80km/h) + 0,17 
+		t= 0,79h
+		distancia = 0,79 * 80 = 63,2km 
+
+**Como o carro esta saindo em direção a Franca e o caminhão fazendo o caminho inverso,quando eles se encontrarem ambos estarao a mesma distancia de Ribeirao***
+
+5 -
